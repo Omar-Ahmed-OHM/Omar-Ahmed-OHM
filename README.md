@@ -36,6 +36,8 @@
 ### 🐍 GitHub Contribution Snake:
 ![Snake animation](https://github.com/omar-ahmed-ohm/omar-ahmed-ohm/blob/output/github-contribution-grid-snake.svg)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omar-ahmed-ohm&theme=tokyonight)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=omar-ahmed&color=6FA3EF&style=flat-square)
 
 ---
