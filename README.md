@@ -1,12 +1,14 @@
 ### Hi there, I'm Omar Ahmed! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Frontend+Developer+%7C+Passionate+Coder;Building+Interactive+Web+Experiences+%F0%9F%8C%90;Crafting+Code+With+Style+%F0%9F%92%BB;Turning+Ideas+Into+Reality+%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FA3EF&width=435&lines=Frontend+Developer+%7C+Passionate+Coder;Building+Interactive+Web+Experiences+%F0%9F%8C%90;Crafting+Code+With+Style+%F0%9F%92%BB;Turning+Ideas+Into+Reality+%E2%9C%A8)
 
 ---
 
 ### 🚀 About Me:
 - 👨‍💻 **Frontend Developer** passionate about creating beautiful & functional web applications.
+- 🏢 Working at **Mogo** & Freelancing.
 - 🎯 Currently improving my skills in **React, JavaScript, and modern UI/UX design**.
+- 🚀 **Currently a Junior Developer***
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/omar-ahmed-33a467298/)**.
 
 ---
@@ -25,13 +27,16 @@
 
 ---
 
-### 🚀 GitHub Profile Trophy:
+### 🏆 GitHub Profile Trophy:
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=omar-ahmed-ohm&theme=onedark&no-frame=true&row=1&column=7)
 
 ### 🔥 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-ahmed-ohm&layout=compact&theme=tokyonight)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=omar-ahmed&color=blue&style=flat-square)
+### 🐍 GitHub Contribution Snake:
+![Snake animation](https://github.com/omar-ahmed-ohm/omar-ahmed-ohm/blob/output/github-contribution-grid-snake.svg)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=omar-ahmed&color=6FA3EF&style=flat-square)
 
 ---
 
