@@ -1,6 +1,6 @@
 ### Hi there, I'm Omar Ahmed! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Frontend+Developer+%7C+Passionate+Coder;Building+Interactive+Web+Experiences+%F0%9F%8C%90)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Frontend+Developer+%7C+Passionate+Coder;Building+Interactive+Web+Experiences+%F0%9F%8C%90;Crafting+Code+With+Style+%F0%9F%92%BB;Turning+Ideas+Into+Reality+%E2%9C%A8)
 
 ---
 
@@ -25,10 +25,22 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar-ahmed&show_icons=true&theme=tokyonight)
+### 🚀 GitHub Profile Trophy:
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=omar-ahmed-ohm&theme=onedark&no-frame=true&row=1&column=7)
 
-![Omar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omar-ahmed&theme=tokyonight)
+### 🔥 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-ahmed-ohm&layout=compact&theme=tokyonight)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=omar-ahmed&color=blue&style=flat-square)
+
+---
+
+### 🔥 Cool Dev Quotes:
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+> "Simplicity is the soul of efficiency." – Austin Freeman
+
+> "First, solve the problem. Then, write the code." – John Johnson
 
 ---
 
